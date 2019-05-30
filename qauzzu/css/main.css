@@ -3,7 +3,7 @@
   background: url(../img/background.jpg);
   background-size: cover;
   background-position: center;
-  min-height: 600px;
+  min-height: 660px;
   color: #fff;
   font-family: 'Poppins', sans-serif;
 }
@@ -58,4 +58,18 @@
   .section-podcast{
     min-height: 240px;
   }
+}
+/* Sub-Page Header */
+.main-header-inner{
+  background: url(../img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+}
+/* Solutions Page */
+
+.main-header-inner .showcase h5{
+  padding-top: 55px;
 }
